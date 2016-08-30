@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>aquavaria_branding</name>
+    <displayName><![CDATA[Aquavaria branding header and footer]]></displayName>
+    <version><![CDATA[0.0.1]]></version>
+    <description><![CDATA[Adds a header and footer from Aquavaria.cz website. DEVELOPERS USE ONLY - needs in-code config.]]></description>
+    <author><![CDATA[Tom&aacute;&scaron; Bedřich]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
