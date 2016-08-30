@@ -7,7 +7,7 @@ if (!defined('_PS_VERSION_')) {
 class Aquavaria_Branding extends Module
 {
 
-    const REMOTE_URL = 'http://localhost/aquavaria.cz/web/www/api';
+    const REMOTE_URL = 'https://aquavaria.cz/api';
 
     public function __construct()
     {
