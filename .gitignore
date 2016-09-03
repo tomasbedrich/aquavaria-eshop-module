@@ -3,7 +3,7 @@
 /config_*.xml
 translations/*.php
 !translations/index.php
-cache/
+cache/*
 
 
 # Created by https://www.gitignore.io/api/osx,linux,windows
